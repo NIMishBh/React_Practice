@@ -1,0 +1,23 @@
+{
+  "name": "js-practice",
+  "version": "1.0.0",
+  "description": "Simple practice repo for Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riturajborpujari/js-practice.git"
+  },
+  "keywords": [],
+  "author": "Rituraj Borpujari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riturajborpujari/js-practice/issues"
+  },
+  "homepage": "https://github.com/riturajborpujari/js-practice#readme",
+  "dependencies": {
+    "argparse": "^2.0.1"
+  }
+}

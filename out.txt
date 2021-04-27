@@ -1,0 +1,23 @@
+{
+  "obnf": "kt-qsbdujdf",
+  "wfstjpo": "1.0.0",
+  "eftdsjqujpo": "Tjnqmf qsbdujdf sfqp gps Kbwbtdsjqu",
+  "nbjo": "joefy.kt",
+  "tdsjqut": {
+    "uftu": "fdip \"Fssps: op uftu tqfdjgjfe\" && fyju 1"
+  },
+  "sfqptjupsz": {
+    "uzqf": "hju",
+    "vsm": "hju+iuuqt://hjuivc.dpn/sjuvsbkcpsqvkbsj/kt-qsbdujdf.hju"
+  },
+  "lfzxpset": [],
+  "bvuips": "Sjuvsbk Cpsqvkbsj",
+  "mjdfotf": "JTD",
+  "cvht": {
+    "vsm": "iuuqt://hjuivc.dpn/sjuvsbkcpsqvkbsj/kt-qsbdujdf/jttvft"
+  },
+  "ipnfqbhf": "iuuqt://hjuivc.dpn/sjuvsbkcpsqvkbsj/kt-qsbdujdf#sfbenf",
+  "efqfoefodjft": {
+    "bshqbstf": "^2.0.1"
+  }
+}
