@@ -8,7 +8,7 @@ module.exports = function EncodeFileAsyncWrite(outFile, data) {
       if(err){
         return reject(err);
       }
-      resolve(data);
+      resolve("Data Written Successfully in the Output File");
     })
   });
 }
